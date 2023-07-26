@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		14977E302A68C4320013258A /* ControlViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14977E2F2A68C4320013258A /* ControlViewController.swift */; };
+		1498B5432A7114DA00CE3E93 /* InfoEnum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1498B5422A7114DA00CE3E93 /* InfoEnum.swift */; };
 		14C1845E2A666FFC00D0FBA1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14C1845D2A666FFC00D0FBA1 /* AppDelegate.swift */; };
 		14C184602A666FFC00D0FBA1 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14C1845F2A666FFC00D0FBA1 /* SceneDelegate.swift */; };
 		14C184652A666FFC00D0FBA1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 14C184632A666FFC00D0FBA1 /* Main.storyboard */; };
@@ -21,6 +22,7 @@
 
 /* Begin PBXFileReference section */
 		14977E2F2A68C4320013258A /* ControlViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ControlViewController.swift; sourceTree = "<group>"; };
+		1498B5422A7114DA00CE3E93 /* InfoEnum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InfoEnum.swift; sourceTree = "<group>"; };
 		14C1845A2A666FFC00D0FBA1 /* hoonflix.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = hoonflix.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		14C1845D2A666FFC00D0FBA1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		14C1845F2A666FFC00D0FBA1 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -67,6 +69,7 @@
 				14C1845D2A666FFC00D0FBA1 /* AppDelegate.swift */,
 				14C1845F2A666FFC00D0FBA1 /* SceneDelegate.swift */,
 				14C184712A66862800D0FBA1 /* SignUpViewController.swift */,
+				1498B5422A7114DA00CE3E93 /* InfoEnum.swift */,
 				14C184932A67700000D0FBA1 /* MovieViewController.swift */,
 				14C184972A67A70C00D0FBA1 /* BoardViewController.swift */,
 				14C184952A67700D00D0FBA1 /* DetailViewController.swift */,
@@ -152,6 +155,7 @@
 			files = (
 				14C184982A67A70C00D0FBA1 /* BoardViewController.swift in Sources */,
 				14C184942A67700000D0FBA1 /* MovieViewController.swift in Sources */,
+				1498B5432A7114DA00CE3E93 /* InfoEnum.swift in Sources */,
 				14C1845E2A666FFC00D0FBA1 /* AppDelegate.swift in Sources */,
 				14C184962A67700D00D0FBA1 /* DetailViewController.swift in Sources */,
 				14C184602A666FFC00D0FBA1 /* SceneDelegate.swift in Sources */,
